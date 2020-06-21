@@ -17,5 +17,5 @@ require("./app/routes/customer.routes.js")(app);
 
 // set port, listen for requests
 app.listen(8098, () => {
-  console.log("Server is running on port 3000.");
+  console.log("Server is running on port 8098.");
 });
